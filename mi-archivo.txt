@@ -1,1 +1,4 @@
-Hola soy Leandro Lopez, tengo 34 años de edad y soy estudiante de la tecnicatura de programacion a distancia en la univesidad nacional 
+Hola soy Leandro Lopez
+Tengo 28 años de edad 
+Soy estudiante de la tecnicatura de programacion a distancia en la univesidad nacional
+Estoy realizando mi primer trabajo de la materia programacion1 
